@@ -80,5 +80,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 Discover and enjoy the latest music trends with the Flutter Shazam Music App! 🎵✨
 ```
-
-Replace placeholders like `your-username` and `Your Name` with your actual GitHub information. Customize the content further based on your app's specifics.
+ Customize the content further based on your app's specifics.
+```
